@@ -94,7 +94,7 @@ ul#menu-principal {
 }
 
 .menu-item a:hover {
-background-color: rgba(175, 89, 158, 0.3);
+    background-color: rgba(175, 89, 158, 0.3);
 }
 
 #foto-personal {
@@ -129,8 +129,7 @@ p {
 }
 
 #texto1 {
-    padding-left: 70px;
-
+    padding: 70px;
 }
 
 #inicio button {
@@ -170,7 +169,7 @@ footer {
     padding: 40px;
 }
 
-#listado-iconos img:hover{
+#listado-iconos img:hover {
     background-color: rgba(175, 89, 158, 0.3);
 }
 
@@ -185,4 +184,3 @@ footer {
     padding: 10px;
     border-radius: 5px;
 }
-
